@@ -1,0 +1,30 @@
+.DrawTable {
+  display: flex;
+  gap: 1em;
+  flex-direction: column;
+  align-items: center;
+  justify-content: end;
+}
+
+.GameContainer {
+  display: flex;
+  justify-content: center;
+  gap: 3em;
+}
+
+.PlayingField {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+}
+
+.Column {
+  display: flex;
+  flex-direction: column-reverse;
+  gap: 1em;
+}
+
+.Actions {
+  display: flex;
+  gap: 1em;
+}

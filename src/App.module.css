@@ -1,0 +1,6 @@
+.Nav {
+  margin-bottom: 2em;
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+}
